@@ -1,0 +1,4 @@
+List=["Ladlima","Mehboob","Kuchbal"]
+print=("List:")
+print=(List[0])
+print=(List[2])
