@@ -1,0 +1,4 @@
+def my_function():
+  print("Hello I am Ladlima Kuchbal this is python function")
+
+my_function()
