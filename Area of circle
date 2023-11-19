@@ -1,0 +1,4 @@
+redius=float(input("enter the redius="))
+PI=3.14
+area=PI*redius*redius
+print("area of circle is ",area)
